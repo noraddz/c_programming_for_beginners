@@ -1,0 +1,5 @@
+integer - int - %i
+floating point - float - %f
+double - double - %e
+character - char - %c
+boolean - bool - _Bool
